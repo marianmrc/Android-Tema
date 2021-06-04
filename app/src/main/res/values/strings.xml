@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Library</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="book_title">Book title</string>
+    <string name="book_author">Book author</string>
+    <string name="book_description">Book description</string>
+    <string name="add_update">ADD/UPDATE</string>
+    <string name="delete">DELETE</string>
+</resources>
